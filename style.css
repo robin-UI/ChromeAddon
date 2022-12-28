@@ -1,0 +1,20 @@
+body{
+    position: relative;
+}
+
+
+.ThreeDot {
+    /* display: none; */
+    position: absolute;
+    z-index: 999;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(102, 96, 96);
+    border-radius: 7px;
+}
+
+.ThreeDot img {
+    height: 25px;
+    width: 25px;
+    margin: auto;
+}
